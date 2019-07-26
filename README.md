@@ -1,4 +1,10 @@
 # Contextual_Regression_for_CircRNA
+## Requirements
+Python3 (we used 3.64)
+Tensorflow (we used v1.5)
+Numpy (we used v1.14.0)
+Scipy (we used v1.0.0)
+Sklearn (we used v0.19.1)
 
 ## Description
 This project is an implementation of contextual regression for circular RNA data, it can train and predict 
